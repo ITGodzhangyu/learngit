@@ -1,0 +1,21 @@
+.den-banner{background: linear-gradient(to bottom, #f8fcff, #f8fcff, #f8fcff);min-height:750px;max-height:1080px;min-width:1080px;
+			color:#515151;font-size:14px;width:100%;height:auto;position:relative;overflow:hidden}
+	.den-banner .bg{width:100%;position:absolute;bottom:0px;max-width:1250px;min-width:1080px;}
+.main-form{width:298px;font-size:18px;position:absolute;top:16%;right:300px;background:#fff;border-radius:2px;padding:35px 35px 10px;overflow:hidden}
+	.main-form .thod li{position:relative;margin-right:10px;color:#7f7f7f}
+	.main-form .thod li a{margin-left:-15px;color:#7f7f7f}	
+		.main-form .zhanghao{margin-top:50px;font-size:18px;position:absolute;left:-40px;top:20px}
+		.main-form .zhanghao input{width:300px;height:46px;color:#000;line-height:22px;margin-top:30px;}
+		.main-form .zhanghao .chek{width:16px;height:16px;float:left;}
+		.main-form .zhanghao span{font-size:12px;display:inline-block;margin-top:30px;margin-left:5px}
+		.main-form .submit{background:#32a5e7;height:46px;cursor:pointer;font-size:14px;line-height:46px;text-align:center;
+							margin-bottom:10px;border-radius:5px}
+		.main-form  .zhanghao .submit{color:#fff}	
+		.main-form  .iphone .submit{color:#fff}				
+		.main-form  .submit:hover{background:#2b8cc5;}
+		.main-form .zhushi{width:600px;margin-top:370px}
+		.main-form .zhushi	a{color:#32a5e7;font-size:14px;margin-right:218px;float:left;margin-bottom:5px}
+		.main-form .zhushi	a:hover{color:#2B8CC5}
+			
+		.main-form .iphone input{width:300px;height:46px;text-align:center;cursor pointer;color:grey;vertical-align:middle;margin-top:30px}
+		.main-form .iphone{position:absolute;top:80px;left:-200px;display:none}

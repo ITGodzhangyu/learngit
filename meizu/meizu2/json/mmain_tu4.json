@@ -1,0 +1,82 @@
+{
+	"tu4_1":{
+		"src":"#",
+		"img":"img/tu4_1.jpg",
+		"title":"",
+		"introduce":"",
+		"price":"",
+		"addition":""
+	},
+	"tu4_2":{
+		"src":"#",
+		"img":"img/tu4_2.jpg",
+		"title":"魅蓝 Note5 环窗智能保护套",
+		"introduce":"个性表盘 随心搭配",
+		"price":"限时特惠 ￥79",
+		"addition":"新品"
+	},
+	"tu4_3":{
+		"src":"#",
+		"img":"img/tu4_3.jpg",
+		"title":"魅蓝 X 智能保护壳",
+		"introduce":"清新亮丽 原质原味",
+		"price":"限时特惠 ￥39",
+		"addition":""
+	},
+	"tu4_4":{
+		"src":"#",
+		"img":"img/tu4_4.jpg",
+		"title":"魅蓝 Note5高透保护膜",
+		"introduce":"高清透亮 抗刮耐磨",
+		"price":"￥29",
+		"addition":"新品"
+	},
+	"tu4_5":{
+		"src":"#",
+		"img":"img/tu4_5.jpg",
+		"title":"新游智能游戏手柄 N1Pro增强版",
+		"introduce":"蓝牙4.0双模无线+体感+空鼠",
+		"price":"限时特惠 ￥139",
+		"addition":"特惠"
+	},
+	"tu4_6":{
+		"src":"#",
+		"img":"img/tu4_6.jpg",
+		"title":"PRO 6s环窗智能保护套",
+		"introduce":"环窗操作，便捷高效",
+		"price":"限时特惠 ￥79",
+		"addition":""
+	},
+	"tu4_7":{
+		"src":"#",
+		"img":"img/tu4_7.jpg",
+		"title":"魅蓝5 智能保护壳",
+		"introduce":"清新亮丽 原质原味",
+		"price":"限时特惠 ￥39",
+		"addition":""
+	},
+	"tu4_8":{
+		"src":"#",
+		"img":"img/tu4_8.jpg",
+		"title":"PRO 6 Plus音乐智能保护套",
+		"introduce":"音乐基因 未能忘却",
+		"price":"限时特惠 ￥119",
+		"addition":"新品"
+	},
+	"tu4_9":{
+		"src":"#",
+		"img":"img/tu4_9.jpg",
+		"title":"PRO 6 Plus 软胶保护壳",
+		"introduce":"清莹透亮 精雕细琢",
+		"price":"￥29",
+		"addition":"新品"
+	},
+	"tu4_10":{
+		"src":"#",
+		"img":"img/tu4_10.jpg",
+		"title":"魅蓝 E 环窗智能保护套",
+		"introduce":"个性表盘 随心搭配",
+		"price":"限时特惠 ￥79 ",
+		"addition":""
+	}
+}

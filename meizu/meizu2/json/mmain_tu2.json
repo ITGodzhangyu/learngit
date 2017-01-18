@@ -1,0 +1,82 @@
+{
+	"tu2_1":{
+		"src":"#",
+		"img":"img/tu2_1.jpg",
+		"title":"",
+		"introduce":"",
+		"price":"",
+		"addition":""
+	},
+	"tu2_2":{
+		"src":"#",
+		"img":"img/tu2_2.jpg",
+		"title":"魅族 EP51蓝牙运动耳机",
+		"introduce":"轻装上阵 乐享动听",
+		"price":"￥269",
+		"addition":""
+	},
+	"tu2_3":{
+		"src":"#",
+		"img":"img/tu2_3.jpg",
+		"title":"罗马仕AU12快充车充",
+		"introduce":"2.4A快充 双接口 同充手机平板",
+		"price":"￥29",
+		"addition":""
+	},
+	"tu2_4":{
+		"src":"#",
+		"img":"img/tu2_4.jpg",
+		"title":"铁三角 ATH-IM70",
+		"introduce":"支持换线，入烧必选",
+		"price":"￥650",
+		"addition":""
+	},
+	"tu2_5":{
+		"src":"#",
+		"img":"img/tu2_5.jpg",
+		"title":"方图FT-S100伸缩式支架麦克风",
+		"introduce":"新发现之旅",
+		"price":"￥189",
+		"addition":"新品"
+	},
+	"tu2_6":{
+		"src":"#",
+		"img":"img/tu2_6.jpg",
+		"title":"魅族 休闲旅行双肩包",
+		"introduce":"曲面一体式设计 多功能隔层",
+		"price":"￥199",
+		"addition":""
+	},
+	"tu2_7":{
+		"src":"#",
+		"img":"img/tu2_7.jpg",
+		"title":"猎奇手机镜头套装",
+		"introduce":"手机外置镜头 手机自拍镜头",
+		"price":"限时特惠 ￥59",
+		"addition":"特惠"
+	},
+	"tu2_8":{
+		"src":"#",
+		"img":"img/tu2_8.jpg",
+		"title":"ORICO USB智能插线板（瘦版）",
+		"introduce":"USB智能充电，线损补偿",
+		"price":"￥59",
+		"addition":"热卖"
+	},
+	"tu2_9":{
+		"src":"#",
+		"img":"img/tu2_9.jpg",
+		"title":"东芝v8高端分享系列移动硬盘",
+		"introduce":"轻薄时尚 缤纷色彩 时尚便携",
+		"price":"￥419",
+		"addition":""
+	},
+	"tu2_10":{
+		"src":"#",
+		"img":"img/tu2_10.jpg",
+		"title":"魅族移动电源 快充版",
+		"introduce":"独特双层注塑 精密工艺打磨",
+		"price":"￥149 起",
+		"addition":""
+	}
+}

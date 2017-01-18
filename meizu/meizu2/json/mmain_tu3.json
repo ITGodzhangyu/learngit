@@ -1,0 +1,82 @@
+{
+	"tu3_1":{
+		"src":"#",
+		"img":"img/tu3_1.jpg",
+		"title":"",
+		"introduce":"",
+		"price":"",
+		"addition":""
+	},
+	"tu3_2":{
+		"src":"#",
+		"img":"img/tu3_2.jpg",
+		"title":"暴风魔镜小D智能VR眼镜",
+		"introduce":"3D巨幕观影，海量影视资源",
+		"price":"￥49",
+		"addition":"热卖"
+	},
+	"tu3_3":{
+		"src":"#",
+		"img":"img/tu3_3.jpg",
+		"title":"飞智黑武士蓝牙无线手柄",
+		"introduce":"正版游戏云端适配",
+		"price":"限时特惠 ￥99",
+		"addition":"特惠"
+	},
+	"tu3_4":{
+		"src":"#",
+		"img":"img/tu3_4.jpg",
+		"title":"新游智能游戏手柄Q1酷玩版",
+		"introduce":"专为国人手型打造",
+		"price":"限时特惠 ￥109",
+		"addition":""
+	},
+	"tu3_5":{
+		"src":"#",
+		"img":"img/tu3_5.jpg",
+		"title":"新游智能游戏手柄 N1Pro增强版",
+		"introduce":"蓝牙4.0双模无线+体感+空鼠",
+		"price":"限时特惠 ￥139",
+		"addition":"特惠"
+	},
+	"tu3_6":{
+		"src":"#",
+		"img":"img/tu3_7.jpg",
+		"title":"乐心体重秤S1",
+		"introduce":"WIFI数据传输 微信互联",
+		"price":"限时特惠 ￥89",
+		"addition":"热卖"
+	},
+	"tu3_7":{
+		"src":"#",
+		"img":"img/tu3_7.jpg",
+		"title":"乐范AirPet 空气净化器",
+		"introduce":"有“香”法的桌面净化器",
+		"price":"限时特惠 ￥269",
+		"addition":"特惠"
+	},
+	"tu3_8":{
+		"src":"#",
+		"img":"img/tu3_8.jpg",
+		"title":"小k奔腾智能香薰加湿器",
+		"introduce":"智能控制加湿器 手机远程控制",
+		"price":"限时特惠 ￥159",
+		"addition":"热卖"
+	},
+	"tu3_9":{
+		"src":"#",
+		"img":"img/tu3_9.jpg",
+		"title":"阿巴町t1502儿童电话手表",
+		"introduce":"支持3期免息",
+		"price":"￥199",
+		"addition":"免息"
+	},
+	"tu3_10":{
+		"src":"#",
+		"img":"img/tu3_10.jpg",
+		"title":"南山大夫高仿真颈舒按摩仪",
+		"introduce":"医学和互联网结合",
+		"price":"限时特惠 ￥369 ",
+		"addition":""
+	}
+}
