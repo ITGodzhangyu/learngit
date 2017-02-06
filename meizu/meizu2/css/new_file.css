@@ -6,7 +6,7 @@
 	.navv li:first-child{margin-top:12px}
 	.navv li:hover{opacity:1;background-color:#fff;cursor:pointer}
 	.navv span{display:block;margin-left:30px}
-	.navv li:hover .box{display:block}
+	.navv li:hover .box{display:block;}
 	.navv li .kk img{width:50px;height:50px;margin-left:20px;vertical-align:middle;margin-right:10px;float:left}
 	.navv .kk{width:180px;float:left;margin-top:30px;height:60px}
 	.navv .b2 .kk .q{vertical-align:middle;display:table-cell;line-height:18px}
@@ -29,7 +29,7 @@
 	#banner span{display:block;position:absolute;top:150px;color:#fff;width:20px;height:40px;font-size:30px;line-height:40px}
 	#banner span:hover{background:#000}
 .banner2{width:1240px;height:150px;margin:0 auto}	
-	.banner2 .bottom{width:243px;height:140px;float:left;margin-top:5px;background:#f9f9f9;margin-right:5px}
+	.banner2 .bottom{width:243px;height:140px;float:left;margin-top:5px;background:#f9f9f9;margin-right:5px;cursor:pointer}
 	.banner2 .bottom1 img{width:26px;height:26px;vertical-align:middle;margin-top:10px;margin-bottom:5px}
 	.banner2 .bottom1 a{width:121px;height:70px;float:left;text-align:center;color:#666}
 	.banner2 .bottom1 a:hover{opacity:0.7}
@@ -38,7 +38,9 @@
 	 h3{font-size:25px;float:left;font-weight: 400;}
 	.main1 .h3 .hua{float:right}
 	.main1 .h3 .hua a{display:inline-block;width:28px;height:28px;border:1px solid #bdbdbd;line-height:23px;text-align:center;font-size:30px;margin-right:5px;color:#bdbdbd;
-						position:relative;z-index:1}
+						position:relative;z-index:1;cursor:pointer}
+	.main1  i{display:block;height:40px;border-radius:50%;position:absolute;top:20px;right:20px;color:#fff;text-align:center;
+				line-height:40px;z-index:10;background:#f0415f;width:40px;font-style:normal}
 	.main1 .move{width:1240px;height:315px;position:relative;overflow:hidden}
 	.main1 #move{width:2480px;position:absolute;}
 	.main1 .move .m{border:1px solid #efefef;width:246px;height:313px;float:left;text-align:center;margin-right:-1px;z-index:1;position:relative}
@@ -79,6 +81,4 @@
 		.hua3 li{margin-left:30px}
 	.mmain3{width:1240px;margin:0 auto;height:810px;}
 	.mmain4{width:1240px;margin:0 auto;height:790px;}
-.fx{position:fixed;right:20px;bottom:50px;}
-	.fx a{width:45px;height:45px;background:rgb(180,180,180);opacity:.8;display:block;margin-bottom:8px}
-	.fx a img{margin-left:11px;margin-top:13px}
+

@@ -72,14 +72,17 @@ body,html{height:100%}
 	.denlu-footer g{background:#32a5e7;margin-left:10px;border-radius:2px;display:inline-block;padding:2px}
 	.denlu-footer g a{color:#fff;}
 	.denlu-footer .erma{float:right;margin-right:150px;margin-top:30px}
-		.denlu-footer .erma a{width:32px;height:32px;overflow:hidden;display:inline-block;margin-left:10px}
-		.denlu-footer .erma .left{background:url("../img/weixinbg.png")-2px -1px}
-		.denlu-footer .erma .left:hover{background-position:-2px -47px}
-		.denlu-footer .erma .center{background:url("../img/weixinbg.png")-86px -1px}
-		.denlu-footer .erma .center:hover{background-position:-86px -47px}
-		.denlu-footer .erma .right{background:url("../img/weixinbg.png")-128px -1px}
-		.denlu-footer .erma .right:hover{background-position:-128px -47px}
+		 .erma a{width:32px;height:32px;overflow:hidden;display:inline-block;margin-left:10px}
+		.erma .left{background:url("../img/weixinbg.png")-2px -1px}
+		 .erma .left:hover{background-position:-2px -47px}
+		 .erma .center{background:url("../img/weixinbg.png")-86px -1px}
+		 .erma .center:hover{background-position:-86px -47px}
+		 .erma .right{background:url("../img/weixinbg.png")-128px -1px}
+		 .erma .right:hover{background-position:-128px -47px}
 	.denlu-footer .too{margin-left:150px;clear:both;font-size:12px;color:#7f7f7f}
 		.denlu-footer .too p{float:left;}	
 		.denlu-footer .too a{color:#7f7f7f;margin-left:5px;}
 		.denlu-footer .too a:hover{color:#000;}
+.fx{position:fixed;right:20px;bottom:50px;}
+	.fx a{width:45px;height:45px;background:rgb(180,180,180);opacity:.8;display:block;margin-bottom:8px}
+	.fx a img{margin-left:11px;margin-top:13px}

@@ -1,0 +1,121 @@
+{	
+	"guan-nav-b11":{
+		"guan-nav-b111":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b111.jpg",
+			"title":"PRO 6 Plus"
+		},
+		"guan-nav-b112":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b112.jpg",
+			"title":"PRO 6s"
+		},
+		"guan-nav-b113":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b113.jpg",
+			"title":"MX6"
+		},
+		"guan-nav-b114":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b114.jpg",
+			"title":"PRO 6"
+		},
+		"guan-nav-b115":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b115.jpg",
+			"title":"PRO 5"
+		}
+	},
+	"guan-nav-b21":{
+		"guan-nav-b211":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b211.jpg",
+			"title":"魅蓝 Note5"
+		},
+		"guan-nav-b212":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b212.jpg",
+			"title":"魅蓝 X"
+		},
+		"guan-nav-b213":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b213.jpg",
+			"title":"魅蓝 5"
+		},
+		"guan-nav-b214":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b214.jpg",
+			"title":"魅蓝 Max"
+		},
+		"guan-nav-b215":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b215.jpg",
+			"title":"魅蓝 U20"
+		},
+		"guan-nav-b216":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b216.jpg",
+			"title":"魅蓝 U10"
+		},
+		"guan-nav-b217":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b217.jpg",
+			"title":"魅蓝 E"
+		}
+	},
+	"guan-nav-b31":{
+		"guan-nav-b311":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b311.jpg",
+			"title":"EP2X"
+		},
+		"guan-nav-b312":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b312.jpg",
+			"title":"EP51"
+		},
+		"guan-nav-b313":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b313.jpg",
+			"title":"HD50"
+		}
+		
+	},
+	"guan-nav-b41":{
+		"guan-nav-b411":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b411.jpg",
+			"title":"魅族手环"
+		},
+		"guan-nav-b412":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b412.jpg",
+			"title":"智能手表 MIX"
+		},
+		"guan-nav-b413":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b413.jpg",
+			"title":"音乐智能保护套"
+		},
+		"guan-nav-b414":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b414.jpg",
+			"title":"魅族盒子"
+		},
+		"guan-nav-b415":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b415.jpg",
+			"title":"魅族双肩包"
+		},
+		"guan-nav-b416":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b416.jpg",
+			"title":"环窗智能保护套"
+		},
+		"guan-nav-b417":{
+			"href":"changpin.html",
+			"img":"img/guan-nav-b417.jpg",
+			"title":"路由器极速版"
+		}
+	}
+}
